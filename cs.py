@@ -1,5 +1,7 @@
 n=0
 n2=1
-xw='yuangong'
 
+lb='laoban'
+xw='yuangong'
 ky='zhe dou xing'
+
