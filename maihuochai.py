@@ -1,9 +1,5 @@
 print('123456')
 
-pr
-
-dasd
-int('asdfghjkl')
 
 print('asdfghjkl')
 print(12345678)
