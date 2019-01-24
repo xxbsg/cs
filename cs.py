@@ -6,5 +6,5 @@ xw='yuangong'
 ky='zhe dou xing'
 dadsfh;adso;fhaoisdhf
 
-username=hepanpan
-email =1561432955@qq.com
+username = hepanpan
+email = 1561432955@qq.com
