@@ -1,2 +1,5 @@
 print('123456')
-print('asdfghjkl')
+pr
+
+dasd
+int('asdfghjkl')
