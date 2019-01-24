@@ -1,5 +1,6 @@
 n=0
 n2=1
+num=3
 
 lb='laoban'
 xw='yuangong'
